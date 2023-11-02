@@ -1,0 +1,1 @@
+export const MIN_APPROVED_PERCENTAGE = 70;
